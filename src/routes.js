@@ -3,7 +3,7 @@ import Inicio from "./paginas/inicio";
 import Menu from "./componentes/Menu";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-function App() {
+function AppRoutes() {
   return (
     <BrowserRouter>
       <Menu />
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppRoutes;
