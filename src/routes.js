@@ -1,5 +1,5 @@
 import SobreMim from "./paginas/SobreMim";
-import Inicio from "./paginas/inicio";
+import Inicio from "./paginas/Inicio";
 import Menu from "./componentes/Menu";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
